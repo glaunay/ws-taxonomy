@@ -1,0 +1,16 @@
+{
+  "name": "taxonomyws",
+  "version": "1.0.0",
+  "description": "WebService end-point for taxonomy tree access",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GL",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "express": "^4.16.4",
+    "ncbitaxonomy": "^1.0.6"
+  }
+}
